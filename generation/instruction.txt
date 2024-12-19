@@ -1,0 +1,10 @@
+
+The context information is provided below (in between xml tags).
+
+<context>
+
+{context_str}
+
+</context>
+
+Claim: "{query_str}"

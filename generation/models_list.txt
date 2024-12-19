@@ -1,0 +1,5 @@
+mistralai/Mistral-7B-Instruct-v0.1,mistral,q
+mistralai/Mistral-7B-Instruct-v0.2,mistral,q
+meta-llama/Llama-2-7b-chat-hf,llama2,q
+meta-llama/Meta-Llama-3-8B-Instruct,llama3,q
+meta-llama/Llama-2-13b-chat-hf,llama2,q
